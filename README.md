@@ -1,2 +1,2 @@
-# doc
-Lyn's document
+Welcome
+This is Lyn's document
